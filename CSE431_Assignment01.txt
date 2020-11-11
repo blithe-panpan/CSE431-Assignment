@@ -1,0 +1,5 @@
+﻿Alam
+Alom
+Alawm
+Alowm
+RegEx = Al(a|o)w?m
